@@ -1,0 +1,2 @@
+# Compute engine for panchang.py and kundli.py
+ephem>=4.1

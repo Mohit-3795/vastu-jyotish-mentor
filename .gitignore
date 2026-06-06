@@ -1,0 +1,16 @@
+# Personal data — NEVER commit (holds birth details)
+profile.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
