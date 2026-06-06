@@ -1,10 +1,10 @@
 # Demo
 
-Real output from the skill. *Personal birth data is never shown — the chart example uses a fictitious person.*
+Real output from the skill. *Personal birth data is never shown. The chart example uses a fictitious person.*
 
 ## 1. "Should we order raw material to start the business now, or wait?"
 
-The mentor checks the **period gate first** — and catches that early June 2026 falls inside **Adhik Maas** (the extra "leap month" when Hindu tradition pauses new beginnings and big purchases). No weekday, however good, rescues a blocked month.
+The mentor checks the **period gate first**, and catches that early June 2026 falls inside **Adhik Maas** (the extra "leap month" when Hindu tradition pauses new beginnings and big purchases). No weekday, however good, rescues a blocked month.
 
 ```text
 $ python3 scripts/panchang.py 2026-06-06 --place delhi
@@ -19,7 +19,7 @@ $ python3 scripts/panchang.py 2026-06-06 --place delhi
   ==>   NOT ideal - postpone past ADHIK MAAS (2026-05-17 -> 2026-06-15)
 ```
 
-> **Mentor's reply:** *"Wait — don't order now. We're in Adhik Maas (the extra 'leap month' when new starts pause) until 15 June. Order after that."*
+> **Mentor's reply:** *"Wait, don't order now. We're in Adhik Maas (the extra 'leap month' when new starts pause) until 15 June. Order after that."*
 
 ## 2. "What planetary period is the person running? Are they in Sade Sati?"
 
@@ -33,8 +33,8 @@ $ python3 scripts/kundli.py "1985-08-15 09:30 delhi" --on 2026-06-06 --lagna Sco
   Manglik check  : Mars in Cancer = house 9 from lagna -> not Manglik
 ```
 
-> **Mentor's reply:** *"You're in a Venus–Jupiter period — favourable and growth-friendly — and not in Sade Sati. A good window to expand."*
+> **Mentor's reply:** *"You're in a Venus-Jupiter period, favourable and growth-friendly, and not in Sade Sati. A good window to expand."*
 
 ## The point
 
-All the astronomy and rule-checking happens **inside the engine**. The mentor replies in plain language — a one-line verdict, two or three reasons, the next step. Depth under the hood; simplicity on the surface.
+All the astronomy and rule-checking happens **inside the engine**. The mentor replies in plain language: a one-line verdict, two or three reasons, the next step. Depth under the hood; simplicity on the surface.

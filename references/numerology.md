@@ -1,4 +1,4 @@
-# Numerology reference (Chaldean + Vedic) — for brand name + person fit
+# Numerology reference (Chaldean + Vedic), for brand name + person fit
 
 Use the **Chaldean** system (sound-vibration based, older than Pythagorean and standard in Vedic-adjacent practice). Numbers map to planets; the goal is a brand name whose number is **friendly to the person's chart** and **fits the sector**.
 
@@ -24,11 +24,11 @@ Use the **Chaldean** system (sound-vibration based, older than Pythagorean and s
 | 1 | Sun | Leadership, originality, the flagship |
 | 2 | Moon | Sensitivity, partnership, public warmth |
 | 3 | Jupiter | Wisdom, teaching, finance, expansion |
-| 4 | Rahu (Uranus) | Unconventional, disruptive, systems — handle with care |
+| 4 | Rahu (Uranus) | Unconventional, disruptive, systems, handle with care |
 | 5 | Mercury | Commerce, communication, agility, "sells easily" |
 | 6 | Venus | Beauty, luxury, art, hospitality, love |
 | 7 | Ketu (Neptune) | Mysticism, research, the niche/spiritual |
-| 8 | Saturn | Hard structure, slow karma, longevity — handle with care |
+| 8 | Saturn | Hard structure, slow karma, longevity, handle with care |
 | 9 | Mars | Energy, courage, sport, real estate, fire |
 
 ## Person's numbers
@@ -47,18 +47,18 @@ Based on planetary friendships. A name number that is the person's number or a *
 | 2 (Moon) | 1, 2, 3, 5 | 4 | 8, 9 |
 | 3 (Jupiter) | 1, 2, 3, 7, 9 | 5 | 6, 8 |
 | 4 (Rahu) | 5, 6, 7 | 1, 8 | 2, 9 (varies) |
-| 5 (Mercury) | 1, 5, 6 | most | — (5 is broadly compatible) |
-| 6 (Venus) | 3, 5, 6, 8 | — | 1, 2 |
-| 7 (Ketu) | 1, 4, 5 | — | 2 |
+| 5 (Mercury) | 1, 5, 6 | most |, (5 is broadly compatible) |
+| 6 (Venus) | 3, 5, 6, 8 |, | 1, 2 |
+| 7 (Ketu) | 1, 4, 5 |, | 2 |
 | 8 (Saturn) | 3, 5, 6 | 1, 4 | 2, 7, 9 |
 | 9 (Mars) | 1, 3, 9 | 5 | 4, 6 (varies) |
 
 ## Compound-number cautions
 
 Single roots are clear; some **compound** numbers carry warnings regardless of a good root:
-- **13, 14, 16, 19** — the classic "karmic debt" compounds; avoid as a name total even if they reduce to a friendly root.
-- **4 and 8** as a root — powerful but heavy/slow (Rahu, Saturn); use only if the person's chart strongly supports it and the sector wants gravitas.
-- **15, 24, 27, 33, 6, 5** — broadly fortunate compounds, especially for beauty/commerce brands.
+- **13, 14, 16, 19**, the classic "karmic debt" compounds; avoid as a name total even if they reduce to a friendly root.
+- **4 and 8** as a root, powerful but heavy/slow (Rahu, Saturn); use only if the person's chart strongly supports it and the sector wants gravitas.
+- **15, 24, 27, 33, 6, 5**, broadly fortunate compounds, especially for beauty/commerce brands.
 
 ## Sector → favourable number (sanity check)
 
@@ -77,7 +77,7 @@ Single roots are clear; some **compound** numbers carry warnings regardless of a
 2. Check: is the root the person's Bhagyank/Moolank or a **friend** of it? Is it sector-fit? Is the compound free of the karmic warnings?
 3. If yes → confirm it, name the planetary resonance.
 4. If no → propose minimal **spelling tweaks** (doubled letter, dropped/added vowel, alternate transliteration) that shift the total onto a friendly, sector-fit number **without** wrecking pronunciation or the brand feel. Show the before/after math.
-5. Never sacrifice a strong brand name for a number — present the trade-off and let the person choose.
+5. Never sacrifice a strong brand name for a number, present the trade-off and let the person choose.
 
 ## Lo Shu grid (birth-date personality grid)
 Drop every digit of the full DOB into the 3×3 Saturn grid:
@@ -93,4 +93,4 @@ Drop every digit of the full DOB into the 3×3 Saturn grid:
 ## Mobile / vehicle / account / door numbers
 - Sum all digits → reduce to a root. Want it to be the person's **Moolank/Bhagyank** or a **friend** (1, 3, 5, 6 are broadly lucky for business; 5 = easy commerce).
 - For money-handling numbers, avoid roots **4 or 8** unless the chart supports Saturn/Rahu.
-- When you can choose digits, nudge the last 1–2 to land the total on a friendly root.
+- When you can choose digits, nudge the last 1-2 to land the total on a friendly root.

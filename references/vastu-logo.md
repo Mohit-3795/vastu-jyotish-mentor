@@ -1,4 +1,4 @@
-# Vastu reference — applied to a 2D logo
+# Vastu reference, applied to a 2D logo
 
 Vastu Shastra governs **space, direction, and the five elements**. Classical Vastu is about buildings; applying it to a flat mark is an **extension** practitioners use for brand "energy." Treat these as compositional rules: balance the Pancha Bhuta, point energy toward growth, and keep forms whole. Be honest that this is an interpretive layer, then apply it consistently.
 
@@ -12,14 +12,14 @@ Vastu Shastra governs **space, direction, and the five elements**. Classical Vas
 | **Air** | Vayu | NW / E | Green, grey, pastel | Vertical line, slim oblong, lightness | Movement, growth, communication |
 | **Space** | Akash | Centre / overhead | White, violet, transparent | Open negative space, the void around the mark | Expansiveness, clarity, potential |
 
-**Balance rule:** a strong mark touches several elements without one swamping the rest. Read the chart's power-planet *tattvas* (from `jyotish.md`) to decide which elements to emphasise — then make sure the others are at least *present* (often via a single shape or the negative space).
+**Balance rule:** a strong mark touches several elements without one swamping the rest. Read the chart's power-planet *tattvas* (from `jyotish.md`) to decide which elements to emphasise, then make sure the others are at least *present* (often via a single shape or the negative space).
 
 ## Shape ↔ element (and cautions)
 
-- **Square / rectangle (Earth):** trust, permanence — good for finance, real estate, heritage. Can read static; soften corners slightly for premium.
-- **Circle / ellipse / curve (Water/Space):** wholeness, community, safety — universally auspicious; the safest container.
-- **Triangle, apex UP (Fire):** aspiration, energy, a peak. **Apex DOWN is inauspicious** in Vastu (draining, unstable) — avoid downward wedges and chevrons pointing down.
-- **Vertical lines / upward forms (Air):** growth, ascent — good for "rising" brands.
+- **Square / rectangle (Earth):** trust, permanence, good for finance, real estate, heritage. Can read static; soften corners slightly for premium.
+- **Circle / ellipse / curve (Water/Space):** wholeness, community, safety, universally auspicious; the safest container.
+- **Triangle, apex UP (Fire):** aspiration, energy, a peak. **Apex DOWN is inauspicious** in Vastu (draining, unstable), avoid downward wedges and chevrons pointing down.
+- **Vertical lines / upward forms (Air):** growth, ascent, good for "rising" brands.
 - **Avoid:** jagged/cracked forms, sharp points aimed *at* the wordmark, broken or open-ended shapes that "leak," and heavy clutter in the NE (keep NE light and open).
 
 ## Direction & motion within the mark
@@ -28,9 +28,9 @@ Map the canvas to the Vastu compass (top = North, right = East):
 
 | Zone | Energy | Use in the mark |
 |---|---|---|
-| **NE (top-right area)** | Most auspicious; clarity, fortune | Keep **light and open** — negative space, the lightest tint; never crowd it |
+| **NE (top-right area)** | Most auspicious; clarity, fortune | Keep **light and open**, negative space, the lightest tint; never crowd it |
 | **N / E** | Wealth (N), authority/dawn (E) | Good place for upward/rightward motion, the "rising" gesture |
-| **SW (lower-left mass)** | Foundation, stability | Put the **heaviest visual weight** here — anchor the composition |
+| **SW (lower-left mass)** | Foundation, stability | Put the **heaviest visual weight** here, anchor the composition |
 | **SE** | Fire | Where a warm accent can live |
 | **W / S** | Saturn / Mars | Structure and edge; keep disciplined |
 
@@ -38,13 +38,13 @@ Map the canvas to the Vastu compass (top = North, right = East):
 
 ## Symmetry, closure, proportion
 
-- Favour **balance and closure** — complete, contained forms signal stability and completeness.
+- Favour **balance and closure**, complete, contained forms signal stability and completeness.
 - Use **sacred proportion**: golden ratio ≈ **1:1.618**, or clean 1:1 / 2:3 grids. Construct on a geometric scaffold rather than by eye.
-- **Negative space is Akash** — protect it; a cramped mark has no room for prosperity to "enter."
+- **Negative space is Akash**, protect it; a cramped mark has no room for prosperity to "enter."
 
 ## Typography & wordmark
 
-- **Legibility first** — an auspicious name must be readable; confusion is inauspicious.
+- **Legibility first**, an auspicious name must be readable; confusion is inauspicious.
 - Read left→right; even, calm letter-spacing; optional gentle upward lilt, never a downward slant.
 - Colour the wordmark from a **power-planet** tone or a grounded neutral; keep caution-planet colours out of the name itself.
 
@@ -62,4 +62,4 @@ Map the canvas to the Vastu compass (top = North, right = East):
 - Jagged, cracked, or pointed forms aimed at the name.
 - Crowded NE corner; "leaking" open shapes.
 - Caution-planet colours as dominants or in the wordmark.
-- Ethnic-literal clichés (default mandala/lotus/saffron) — translate the principle, don't decorate with it.
+- Ethnic-literal clichés (default mandala/lotus/saffron), translate the principle, don't decorate with it.

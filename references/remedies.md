@@ -1,13 +1,13 @@
-# Upaya — remedies
+# Upaya, remedies
 
 When something is inauspicious, fix it. **Order of preference (cheapest/safest first):**
 1. **Re-time it** to a benefic window (`muhurta.md`).
-2. **Adjust the number** — date, amount, name spelling, registration/phone/vehicle digits — toward **1/3** or the person's friendly numbers.
+2. **Adjust the number**, date, amount, name spelling, registration/phone/vehicle digits, toward **1/3** or the person's friendly numbers.
 3. **Adjust direction/placement** (`vastu-space.md`).
-4. **Strengthen the governing planet** — colour, mantra, charity (below).
-5. **Pacify a caution planet** — charity/seva to it.
+4. **Strengthen the governing planet**, colour, mantra, charity (below).
+5. **Pacify a caution planet**, charity/seva to it.
 
-**Gemstones come last, and with caution** — a strong stone (especially blue sapphire) can backfire. Advise consulting an astrologer before wearing one, and never as a first resort.
+**Gemstones come last, and with caution**, a strong stone (especially blue sapphire) can backfire. Advise consulting an astrologer before wearing one, and never as a first resort.
 
 ## Planet remedies (lead with the free ones)
 | Planet | Free / cheap remedy (colour · day · act · charity) | Mantra | Gemstone (caution) |
@@ -23,6 +23,6 @@ When something is inauspicious, fix it. **Order of preference (cheapest/safest f
 | **Ketu** | Multi/brown · feed dogs, donate blankets · Ganesh | *Om Ketave* / Ganesh | Cat's eye |
 
 ## Tailoring (read `profile.md`)
-- **Strengthen the principal's lagna lord + functional benefics** (their colour / day / charity) — usually the single best lever for the business.
-- **Be gentle with the principal's caution planets** — do their seva/charity; don't over-feature their colours in the brand.
-- The **brand colours can double as a remedy** — featuring the principal's power-planet colours reinforces them every time the mark is seen.
+- **Strengthen the principal's lagna lord + functional benefics** (their colour / day / charity), usually the single best lever for the business.
+- **Be gentle with the principal's caution planets**, do their seva/charity; don't over-feature their colours in the brand.
+- The **brand colours can double as a remedy**, featuring the principal's power-planet colours reinforces them every time the mark is seen.
